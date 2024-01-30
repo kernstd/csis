@@ -1,4 +1,4 @@
-    // second assignment
+    // Second assignment
 
 #include <iostream>
 
