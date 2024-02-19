@@ -47,7 +47,7 @@ int main()
 
     inFile >> distancedTraveled >> travelTime;
     outFile << "Distance Traveled: " << distancedTraveled
-        << " miles, Traveling Time: " << 9.00 << " hours" << endl;
+        << "miles, Traveling Time: " << 9.00 << " hours" << endl;
     outFile << "Average Speed: " << distancedTraveled / travelTime
         << " miles per hour" << endl << endl;
     inFile >> nummOfCoffeeCupSold >> coffeeCupCost;
@@ -55,8 +55,9 @@ int main()
         << ", Cost: $" << coffeeCupCost << " per cup" << endl;
     outFile << "Sales Amount = $" << nummOfCoffeeCupSold * coffeeCupCost
     << endl;
-
+    
     inFile.close();
     outFile.close();
     return 0;
 }
+
