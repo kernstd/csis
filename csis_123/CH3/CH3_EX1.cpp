@@ -30,7 +30,6 @@ int main()
     }
 
     outFile << fixed << showpoint << setprecision(2);
-
     inFile >> firstName >> lastName >> department;
 
     outFile << "Name: " << firstName << " " << lastName << ", "
@@ -60,3 +59,4 @@ int main()
     outFile.close();
     return 0;
 }
+
