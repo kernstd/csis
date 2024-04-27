@@ -2,7 +2,11 @@
   "cmake.configureOnOpen": true,
   "files.associations": {
     "iostream": "cpp",
-    "fstream": "cpp"
+    "fstream": "cpp",
+    "random": "cpp",
+    "limits": "cpp",
+    "*.tcc": "cpp",
+    "ostream": "cpp"
   },
   "workbench.iconTheme": "vs-seti",
   "C_Cpp_Runner.msvcBatchPath": "",
