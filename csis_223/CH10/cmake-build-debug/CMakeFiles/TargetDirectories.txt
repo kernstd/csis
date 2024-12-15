@@ -1,0 +1,3 @@
+/Users/kernstdouyon/repos/csis/csis_223/CH10/cmake-build-debug/CMakeFiles/CH10.dir
+/Users/kernstdouyon/repos/csis/csis_223/CH10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kernstdouyon/repos/csis/csis_223/CH10/cmake-build-debug/CMakeFiles/rebuild_cache.dir

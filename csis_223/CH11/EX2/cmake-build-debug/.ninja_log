@@ -1,0 +1,5 @@
+# ninja log v6
+2	72	1727281446105427078	build.ninja	9cf298caaad14bb7
+1	828	1727281451812366035	CMakeFiles/dateType.h.dir/EX2.cpp.o	70da91b7675e0f63
+0	832	1727281451811263530	CMakeFiles/dateType.h.dir/dateType.cpp.o	b0efda36465c5734
+832	899	1727281452642972890	dateType.h	2db5373b9470aa6e
